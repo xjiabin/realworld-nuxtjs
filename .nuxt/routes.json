@@ -1,0 +1,57 @@
+[
+  {
+    "path": "/",
+    "component": "E:\\\\file\\\\study\\\\big_front_end\\\\part03\\\\module-03\\\\task04\\\\realworld-nuxtjs\\\\pages\\\\layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "E:\\\\file\\\\study\\\\big_front_end\\\\part03\\\\module-03\\\\task04\\\\realworld-nuxtjs\\\\pages\\\\home",
+        "_name": "_c25cbcaa"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "E:\\\\file\\\\study\\\\big_front_end\\\\part03\\\\module-03\\\\task04\\\\realworld-nuxtjs\\\\pages\\\\sign",
+        "_name": "_c252eaee"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "E:\\\\file\\\\study\\\\big_front_end\\\\part03\\\\module-03\\\\task04\\\\realworld-nuxtjs\\\\pages\\\\sign",
+        "_name": "_c252eaee"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "E:\\\\file\\\\study\\\\big_front_end\\\\part03\\\\module-03\\\\task04\\\\realworld-nuxtjs\\\\pages\\\\sign",
+        "_name": "_c252eaee"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "E:\\\\file\\\\study\\\\big_front_end\\\\part03\\\\module-03\\\\task04\\\\realworld-nuxtjs\\\\pages\\\\profile",
+        "_name": "_cd09cd46"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "E:\\\\file\\\\study\\\\big_front_end\\\\part03\\\\module-03\\\\task04\\\\realworld-nuxtjs\\\\pages\\\\settings",
+        "_name": "_272822ef"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "E:\\\\file\\\\study\\\\big_front_end\\\\part03\\\\module-03\\\\task04\\\\realworld-nuxtjs\\\\pages\\\\editor",
+        "_name": "_2b34cb39"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "E:\\\\file\\\\study\\\\big_front_end\\\\part03\\\\module-03\\\\task04\\\\realworld-nuxtjs\\\\pages\\\\article",
+        "_name": "_ff7546ac"
+      }
+    ],
+    "_name": "_3703a4f6"
+  }
+]
